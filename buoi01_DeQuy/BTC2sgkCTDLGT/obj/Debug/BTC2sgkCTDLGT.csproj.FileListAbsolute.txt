@@ -1,0 +1,7 @@
+D:\file code\baithc#\BTC2sgkCTDLGT\bin\Debug\BTC2sgkCTDLGT.exe.config
+D:\file code\baithc#\BTC2sgkCTDLGT\bin\Debug\BTC2sgkCTDLGT.exe
+D:\file code\baithc#\BTC2sgkCTDLGT\bin\Debug\BTC2sgkCTDLGT.pdb
+D:\file code\baithc#\BTC2sgkCTDLGT\obj\Debug\BTC2sgkCTDLGT.csproj.AssemblyReference.cache
+D:\file code\baithc#\BTC2sgkCTDLGT\obj\Debug\BTC2sgkCTDLGT.csproj.CoreCompileInputs.cache
+D:\file code\baithc#\BTC2sgkCTDLGT\obj\Debug\BTC2sgkCTDLGT.exe
+D:\file code\baithc#\BTC2sgkCTDLGT\obj\Debug\BTC2sgkCTDLGT.pdb
