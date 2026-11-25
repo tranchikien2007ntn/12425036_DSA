@@ -1,7 +1,0 @@
-C:\Users\hi\Downloads\Buoi01_DeQuy\BTChuong1sgkCTDLGT\bin\Debug\BTChuong1sgkCTDLGT.exe.config
-C:\Users\hi\Downloads\Buoi01_DeQuy\BTChuong1sgkCTDLGT\bin\Debug\BTChuong1sgkCTDLGT.exe
-C:\Users\hi\Downloads\Buoi01_DeQuy\BTChuong1sgkCTDLGT\bin\Debug\BTChuong1sgkCTDLGT.pdb
-C:\Users\hi\Downloads\Buoi01_DeQuy\BTChuong1sgkCTDLGT\obj\Debug\BTChuong1sgkCTDLGT.csproj.AssemblyReference.cache
-C:\Users\hi\Downloads\Buoi01_DeQuy\BTChuong1sgkCTDLGT\obj\Debug\BTChuong1sgkCTDLGT.csproj.CoreCompileInputs.cache
-C:\Users\hi\Downloads\Buoi01_DeQuy\BTChuong1sgkCTDLGT\obj\Debug\BTChuong1sgkCTDLGT.exe
-C:\Users\hi\Downloads\Buoi01_DeQuy\BTChuong1sgkCTDLGT\obj\Debug\BTChuong1sgkCTDLGT.pdb
